@@ -164,5 +164,8 @@ Julian/test
 *.fa.pac
 *.pack
 *.pt
+*.pth
+*.npy
+*.pkl
 
 # find . -type f -size +99M
